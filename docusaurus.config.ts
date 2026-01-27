@@ -104,7 +104,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Part of the iLearnCzech family. Built with love by <a href="https://ilearnczech.com" target="_blank">Jana</a> & <a href="https://melvin.me" target="_blank">Melvin</a>.`,
+      copyright: `Part of the iLearnCzech family. Made by <a href="https://ilearnczech.com" target="_blank">Jana</a> & <a href="https://melvin.me" target="_blank">Melvin</a>.`,
     },
     prism: {
       theme: prismThemes.github,
