@@ -3,6 +3,7 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
 const sidebars: SidebarsConfig = {
   mainSidebar: [
     'intro',
+    'quick-reference',
     {
       type: 'category',
       label: 'Theory',

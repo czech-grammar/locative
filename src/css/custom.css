@@ -590,3 +590,71 @@
   font-size: 1.1rem;
   margin-bottom: 0.5rem;
 }
+
+/* Print Styles for Quick Reference */
+@media print {
+  /* Hide navigation and sidebars */
+  .navbar,
+  .sidebar,
+  .theme-doc-sidebar-container,
+  .pagination-nav,
+  .theme-doc-toc-desktop,
+  .theme-doc-footer,
+  footer,
+  .announcementBar_node_modules,
+  .table-of-contents {
+    display: none !important;
+  }
+
+  /* Full width content */
+  .main-wrapper,
+  .docMainContainer,
+  article {
+    max-width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  /* Ensure tables fit on page */
+  table {
+    font-size: 0.85rem;
+    page-break-inside: avoid;
+  }
+
+  th, td {
+    padding: 0.25rem 0.5rem !important;
+  }
+
+  /* Avoid breaking inside important sections */
+  h2, h3 {
+    page-break-after: avoid;
+  }
+
+  /* Reset colors for printing */
+  body {
+    background: white !important;
+    color: black !important;
+  }
+
+  a {
+    color: black !important;
+    text-decoration: none !important;
+  }
+
+  /* Code blocks */
+  pre, code {
+    background: #f5f5f5 !important;
+    border: 1px solid #ddd !important;
+  }
+
+  /* Compact spacing */
+  h1 { font-size: 1.5rem; margin: 0.5rem 0; }
+  h2 { font-size: 1.2rem; margin: 0.75rem 0 0.25rem; }
+  hr { margin: 0.5rem 0; }
+  p { margin: 0.25rem 0; }
+
+  /* Show URL for external links (optional) */
+  a[href^="http"]:after {
+    content: none;
+  }
+}
