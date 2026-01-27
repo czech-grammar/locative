@@ -3,7 +3,6 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
 const sidebars: SidebarsConfig = {
   mainSidebar: [
     'intro',
-    'quick-reference',
     {
       type: 'category',
       label: 'Theory',
@@ -23,11 +22,11 @@ const sidebars: SidebarsConfig = {
         id: 'exercises/index',
       },
       items: [
-        'exercises/interactive',
         'exercises/v-or-na',
         'exercises/fill-blank',
         'exercises/transform',
         'exercises/errors',
+        'exercises/interactive',
       ],
     },
     {
@@ -52,6 +51,7 @@ const sidebars: SidebarsConfig = {
       ],
     },
     'exam-guide',
+    'quick-reference',
   ],
 };
 
