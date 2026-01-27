@@ -1,0 +1,274 @@
+---
+sidebar_position: 5
+title: Interactive Quizzes
+---
+
+import Quiz from '@site/src/components/Quiz';
+
+# Interactive Quizzes
+
+Test your knowledge with instant feedback!
+
+---
+
+## V or Na? (Quick Quiz)
+
+<Quiz
+  title="Choose the correct preposition"
+  questions={[
+    {
+      question: "Bydlím ___ Praze.",
+      options: ["v", "na"],
+      answer: "v",
+      explanation: "Cities use V (v Praze, v Brně, v Ostravě)"
+    },
+    {
+      question: "Jsem ___ koncertě.",
+      options: ["v", "na"],
+      answer: "na",
+      explanation: "Events use NA (na koncertě, na svatbě, na přednášce)"
+    },
+    {
+      question: "Čekám ___ nádraží.",
+      options: ["v", "na"],
+      answer: "na",
+      explanation: "Transport places use NA (na nádraží, na letišti, na zastávce)"
+    },
+    {
+      question: "Pracuje ___ univerzitě.",
+      options: ["v", "na"],
+      answer: "na",
+      explanation: "Educational institutions use NA (na univerzitě, na fakultě)"
+    },
+    {
+      question: "Kniha je ___ stole.",
+      options: ["v", "na"],
+      answer: "na",
+      explanation: "Surfaces use NA (na stole, na podlaze, na židli)"
+    },
+    {
+      question: "Bydlí ___ Slovensku.",
+      options: ["v", "na"],
+      answer: "na",
+      explanation: "Slovakia and some regions use NA (na Slovensku, na Moravě)"
+    },
+    {
+      question: "Jsme ___ restauraci.",
+      options: ["v", "na"],
+      answer: "v",
+      explanation: "Buildings use V (v restauraci, v hotelu, v nemocnici)"
+    },
+    {
+      question: "Je ___ záchodě.",
+      options: ["v", "na"],
+      answer: "na",
+      explanation: "Záchod is an irregular na-word! (na záchodě, NOT v záchodě)"
+    }
+  ]}
+/>
+
+---
+
+## Locative Endings (Fill in the Blank)
+
+<Quiz
+  title="Type the correct locative form"
+  questions={[
+    {
+      question: "v ___ (Praha)",
+      answer: "Praze",
+      explanation: "Praha → Praze (h changes to z before -e)"
+    },
+    {
+      question: "na ___ (stůl)",
+      answer: "stole",
+      explanation: "Stůl → stole (masculine inanimate, -e ending)"
+    },
+    {
+      question: "o ___ (bratr)",
+      answer: "bratrovi",
+      explanation: "Bratr → bratrovi (masculine animate uses -ovi)"
+    },
+    {
+      question: "ve ___ (škola)",
+      answer: "škole",
+      explanation: "Škola → škole (feminine -a → -e)"
+    },
+    {
+      question: "v ___ (restaurace)",
+      answer: "restauraci",
+      explanation: "Restaurace → restauraci (soft feminine -e → -i)"
+    },
+    {
+      question: "ve ___ (město)",
+      answer: "městě",
+      explanation: "Město → městě (neuter -o → -ě)"
+    },
+    {
+      question: "na ___ (nádraží)",
+      answer: "nádraží",
+      explanation: "Nádraží → nádraží (neuter -í nouns don't change!)"
+    },
+    {
+      question: "o ___ (kniha)",
+      answer: "knize",
+      explanation: "Kniha → knize (h changes to z before -e)"
+    }
+  ]}
+/>
+
+---
+
+## Palatalization Practice
+
+<Quiz
+  title="Apply the correct consonant change"
+  questions={[
+    {
+      question: "matka → o matc__ (what letter?)",
+      options: ["k", "c", "č"],
+      answer: "c",
+      explanation: "K → C before -e (matka → matce)"
+    },
+    {
+      question: "Praha → v Pra__ (what letters?)",
+      options: ["he", "ze", "že"],
+      answer: "ze",
+      explanation: "H → Z before -e (Praha → Praze)"
+    },
+    {
+      question: "střecha → na stře__ (what letters?)",
+      options: ["che", "še", "ce"],
+      answer: "še",
+      explanation: "CH → Š before -e (střecha → střeše)"
+    },
+    {
+      question: "sestra → o sest__ (what letters?)",
+      options: ["re", "ře", "rě"],
+      answer: "ře",
+      explanation: "R → Ř before -e (sestra → sestře)"
+    },
+    {
+      question: "ruka → v ruc__ (what letter?)",
+      options: ["k", "c", "č"],
+      answer: "c",
+      explanation: "K → C before -e (ruka → ruce)"
+    }
+  ]}
+/>
+
+---
+
+## Mixed Challenge
+
+<Quiz
+  title="Complete with preposition + locative form"
+  questions={[
+    {
+      question: "Where do you live? → Bydlím ___ (v/na + Brno)",
+      answer: "v Brně",
+      explanation: "Cities use V, Brno → Brně"
+    },
+    {
+      question: "I'm at a concert → Jsem ___ (v/na + koncert)",
+      answer: "na koncertě",
+      explanation: "Events use NA, koncert → koncertě"
+    },
+    {
+      question: "About the film → ___ (o + film)",
+      answer: "o filmu",
+      explanation: "Film → filmu (masculine inanimate, -u ending)"
+    },
+    {
+      question: "At the university → ___ (v/na + univerzita)",
+      answer: "na univerzitě",
+      explanation: "Institutions use NA, univerzita → univerzitě"
+    },
+    {
+      question: "In Slovakia → ___ (v/na + Slovensko)",
+      answer: "na Slovensku",
+      explanation: "Slovakia uses NA, Slovensko → Slovensku"
+    }
+  ]}
+/>
+
+---
+
+## Adjective + Noun Quiz
+
+<Quiz
+  title="Put both adjective and noun in locative"
+  questions={[
+    {
+      question: "v ___ (nový dům)",
+      answer: "novém domě",
+      explanation: "Nový → novém, dům → domě"
+    },
+    {
+      question: "o ___ (zajímavá kniha)",
+      answer: "zajímavé knize",
+      explanation: "Zajímavá → zajímavé, kniha → knize (h→z)"
+    },
+    {
+      question: "na ___ (hlavní nádraží)",
+      answer: "hlavním nádraží",
+      explanation: "Hlavní → hlavním, nádraží → nádraží (no change)"
+    },
+    {
+      question: "v ___ (krásná Praha)",
+      answer: "krásné Praze",
+      explanation: "Krásná → krásné, Praha → Praze (h→z)"
+    },
+    {
+      question: "o ___ (starý přítel)",
+      answer: "starém příteli",
+      explanation: "Starý → starém, přítel → příteli"
+    }
+  ]}
+/>
+
+---
+
+## Plural Challenge
+
+<Quiz
+  title="Form the locative plural"
+  questions={[
+    {
+      question: "ve ___ (města)",
+      answer: "městech",
+      explanation: "Města → městech (neuter plural -ech)"
+    },
+    {
+      question: "o ___ (studenti)",
+      answer: "studentech",
+      explanation: "Studenti → studentech (masculine hard -ech)"
+    },
+    {
+      question: "o ___ (ženy)",
+      answer: "ženách",
+      explanation: "Ženy → ženách (feminine hard -ách)"
+    },
+    {
+      question: "v ___ (restaurace pl.)",
+      answer: "restauracích",
+      explanation: "Restaurace → restauracích (feminine soft -ích)"
+    },
+    {
+      question: "na ___ (hrady)",
+      answer: "hradech",
+      explanation: "Hrady → hradech (masculine hard -ech)"
+    }
+  ]}
+/>
+
+---
+
+## More Practice
+
+Want more exercises? Try the written versions:
+
+- [V or Na? (50+ sentences)](/exercises/v-or-na)
+- [Fill in the Blank](/exercises/fill-blank)
+- [Transform Drills](/exercises/transform)
+- [Error Correction](/exercises/errors)

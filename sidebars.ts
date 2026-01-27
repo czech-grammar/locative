@@ -11,6 +11,7 @@ const sidebars: SidebarsConfig = {
         'plural',
         'v-vs-na',
         'palatalization',
+        'adjectives',
       ],
     },
     {
@@ -21,6 +22,7 @@ const sidebars: SidebarsConfig = {
         id: 'exercises/index',
       },
       items: [
+        'exercises/interactive',
         'exercises/v-or-na',
         'exercises/fill-blank',
         'exercises/transform',
