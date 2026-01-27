@@ -10,6 +10,7 @@ const sidebars: SidebarsConfig = {
         'singular',
         'plural',
         'v-vs-na',
+        'po-and-pri',
         'palatalization',
         'adjectives',
       ],

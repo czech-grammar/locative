@@ -9,7 +9,19 @@ Everything you need on one page. Print this!
 
 ---
 
-## Prepositions: V or NA?
+## All 5 Locative Prepositions
+
+| Preposition | Meaning | Example |
+|:------------|:--------|:--------|
+| **v/ve** | in | v Praze, ve škole |
+| **na** | on, at | na stole, na koncertě |
+| **o** | about | o filmu, o problému |
+| **po** | after, along | po obědě, po městě |
+| **při** | during, by | při práci, při okně |
+
+---
+
+## V or NA?
 
 | Use **V** (in) | Use **NA** (on/at) |
 |:---------------|:-------------------|
@@ -21,6 +33,16 @@ Everything you need on one page. Print this!
 | | Directions: na severu, na východě |
 
 **Exceptions with NA:** na záchodě, na Slovensku, na Moravě, na Ukrajině
+
+---
+
+## Po vs Při
+
+| **Po** (after, along) | **Při** (during, by) |
+|:----------------------|:---------------------|
+| po obědě (after lunch) | při obědě (during lunch) |
+| po práci (after work) | při práci (while working) |
+| po městě (around city) | při okně (by the window) |
 
 ---
 
