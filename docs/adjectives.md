@@ -174,6 +174,45 @@ Possessives also change in the Locative:
 
 ---
 
+## Interrogatives (Which/What kind)
+
+These question words also decline like adjectives:
+
+### Který (which)
+
+| | Nominative | Locative | Example |
+|:--|:-----------|:---------|:--------|
+| **Masc./Neut. Sg.** | který/které | **kterém** | Ve kterém domě bydlíš? |
+| **Fem. Sg.** | která | **které** | Ve které ulici? |
+| **All Plural** | kteří/které/která | **kterých** | Ve kterých městech? |
+
+### Jaký (what kind of)
+
+| | Nominative | Locative | Example |
+|:--|:-----------|:---------|:--------|
+| **Masc./Neut. Sg.** | jaký/jaké | **jakém** | V jakém stavu je to? |
+| **Fem. Sg.** | jaká | **jaké** | V jaké situaci? |
+| **All Plural** | jací/jaké/jaká | **jakých** | V jakých podmínkách? |
+
+### Examples
+
+| Czech | English |
+|:------|:--------|
+| Ve kterém hotelu bydlíte? | Which hotel are you staying in? |
+| O které knize mluvíš? | Which book are you talking about? |
+| V jakém stavu je byt? | What condition is the apartment in? |
+| O jakém problému mluvíme? | What kind of problem are we talking about? |
+| Ve kterých zemích jsi byl? | Which countries have you been to? |
+
+:::tip Pattern
+**Který** and **jaký** follow the same pattern as hard adjectives:
+- Masc./Neut. singular: **-ém**
+- Feminine singular: **-é**
+- All plural: **-ých**
+:::
+
+---
+
 ## Word Order
 
 In Czech, adjectives usually come **before** the noun (like English):

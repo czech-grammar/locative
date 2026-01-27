@@ -48,6 +48,7 @@ const sidebars: SidebarsConfig = {
       items: [
         'cheatsheets/singular',
         'cheatsheets/plural',
+        'cheatsheets/adjectives',
         'cheatsheets/flowcharts',
       ],
     },
