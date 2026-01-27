@@ -41,6 +41,9 @@ Master the Locative, and you've conquered one of Czech's trickiest grammar point
 - [Quick Reference](/cheatsheets) - All endings at a glance
 - [Flowcharts](/cheatsheets/flowcharts) - Decision trees for choosing endings
 
+### 🎓 Exam Prep
+- [Exam Guide](/exam-guide) - Locative for CCE A2, B1, B2 exams
+
 ---
 
 ## Quick Facts
