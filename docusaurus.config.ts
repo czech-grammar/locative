@@ -7,8 +7,8 @@ const config: Config = {
   tagline: 'Master the 6th case with exercises, drills & memory tools',
   favicon: 'img/favicon.ico',
 
-  url: 'https://locative.ilearnczech.com',
-  baseUrl: '/',
+  url: 'https://grammar.ilearnczech.com',
+  baseUrl: '/locative/',
 
   organizationName: 'czech-grammar',
   projectName: 'locative',
