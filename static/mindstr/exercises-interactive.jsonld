@@ -1,0 +1,129 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Interactive Quizzes",
+      "x": 0,
+      "y": 0,
+      "link": "https://grammar.ilearnczech.com/locative/exercises/interactive",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#tgdsut",
+      "name": "V or Na?",
+      "x": -235,
+      "y": -74,
+      "link": "https://grammar.ilearnczech.com/locative/exercises/interactive#v-or-na-quick-quiz",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ijf3kk",
+      "name": "Locative Endings",
+      "x": -117,
+      "y": -188,
+      "link": "https://grammar.ilearnczech.com/locative/exercises/interactive#locative-endings-fill-in-the-blank",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#anp567",
+      "name": "Palatalization Practice",
+      "x": 96,
+      "y": -196,
+      "link": "https://grammar.ilearnczech.com/locative/exercises/interactive#palatalization-practice",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#svn3gp",
+      "name": "Mixed Challenge",
+      "x": 237,
+      "y": -66,
+      "link": "https://grammar.ilearnczech.com/locative/exercises/interactive#mixed-challenge",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vbyvwg",
+      "name": "Adjective + Noun Quiz",
+      "x": 219,
+      "y": 103,
+      "link": "https://grammar.ilearnczech.com/locative/exercises/interactive#adjective-noun-quiz",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ahre4u",
+      "name": "Plural Challenge",
+      "x": 55,
+      "y": 207,
+      "link": "https://grammar.ilearnczech.com/locative/exercises/interactive#plural-challenge",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ibdfdz",
+      "name": "More Practice",
+      "x": -122,
+      "y": 185,
+      "link": "https://grammar.ilearnczech.com/locative/exercises/interactive#more-practice",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z7edqb",
+      "name": "← Exercises",
+      "x": -235,
+      "y": 74,
+      "link": "./exercises.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

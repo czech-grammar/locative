@@ -1,0 +1,311 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Plural Endings",
+      "x": 0,
+      "y": 0,
+      "link": "https://grammar.ilearnczech.com/locative/plural",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#6ab87r",
+      "name": "Quick Reference",
+      "x": -248,
+      "y": -29,
+      "link": "https://grammar.ilearnczech.com/locative/plural#quick-reference",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uyfscv",
+      "name": "The \"-ch Club\"",
+      "x": -229,
+      "y": -84,
+      "link": "https://grammar.ilearnczech.com/locative/plural#the--ch-club",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z5cumb",
+      "name": "Masculine Plural",
+      "x": -146,
+      "y": -172,
+      "link": "https://grammar.ilearnczech.com/locative/plural#masculine-plural",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7iejm3",
+      "name": "Hard Masculine → -ech / -ích",
+      "x": -350,
+      "y": -304,
+      "link": "https://grammar.ilearnczech.com/locative/plural#hard-masculine--ech--ích",
+      "bgColor": "#ffe2ed",
+      "parent": "#z5cumb"
+    },
+    {
+      "@id": "#452y5w",
+      "name": "Soft Masculine → -ích",
+      "x": -250,
+      "y": -454,
+      "link": "https://grammar.ilearnczech.com/locative/plural#soft-masculine--ích",
+      "bgColor": "#ffe2ed",
+      "parent": "#z5cumb"
+    },
+    {
+      "@id": "#yyjnxk",
+      "name": "Feminine Plural",
+      "x": 90,
+      "y": -198,
+      "link": "https://grammar.ilearnczech.com/locative/plural#feminine-plural",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hrvxpy",
+      "name": "Hard Feminine → -ách",
+      "x": 7,
+      "y": -425,
+      "link": "https://grammar.ilearnczech.com/locative/plural#hard-feminine--a--ách",
+      "bgColor": "#ffe4d9",
+      "parent": "#yyjnxk"
+    },
+    {
+      "@id": "#hzsqn4",
+      "name": "Soft Feminine → -ích",
+      "x": 175,
+      "y": -479,
+      "link": "https://grammar.ilearnczech.com/locative/plural#soft-feminine--e-ě--ích",
+      "bgColor": "#ffe4d9",
+      "parent": "#yyjnxk"
+    },
+    {
+      "@id": "#dttxwc",
+      "name": "Consonant Feminine → -ech / -ích",
+      "x": 305,
+      "y": -337,
+      "link": "https://grammar.ilearnczech.com/locative/plural#consonant-feminine--ech--ích",
+      "bgColor": "#ffe4d9",
+      "parent": "#yyjnxk"
+    },
+    {
+      "@id": "#p8ysyk",
+      "name": "Neuter Plural",
+      "x": 249,
+      "y": -22,
+      "link": "https://grammar.ilearnczech.com/locative/plural#neuter-plural",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9c2qhr",
+      "name": "Hard Neuter → -ech / -ách",
+      "x": 469,
+      "y": -148,
+      "link": "https://grammar.ilearnczech.com/locative/plural#hard-neuter--o--ech--ách",
+      "bgColor": "#f2ecd2",
+      "parent": "#p8ysyk"
+    },
+    {
+      "@id": "#h59t8f",
+      "name": "Soft Neuter → -ích",
+      "x": 589,
+      "y": -26,
+      "link": "https://grammar.ilearnczech.com/locative/plural#soft-neuter--e-ě--ích",
+      "bgColor": "#f2ecd2",
+      "parent": "#p8ysyk"
+    },
+    {
+      "@id": "#rfby2g",
+      "name": "-í Neuter → -ích",
+      "x": 490,
+      "y": 85,
+      "link": "https://grammar.ilearnczech.com/locative/plural#-í-neuter--ích",
+      "bgColor": "#f2ecd2",
+      "parent": "#p8ysyk"
+    },
+    {
+      "@id": "#arxjt8",
+      "name": "Pattern Summary",
+      "x": 215,
+      "y": 109,
+      "link": "https://grammar.ilearnczech.com/locative/plural#pattern-summary",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jtyjdw",
+      "name": "Common Plural Forms",
+      "x": 118,
+      "y": 173,
+      "link": "https://grammar.ilearnczech.com/locative/plural#common-plural-forms",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dtqx4z",
+      "name": "Masculine",
+      "x": 329,
+      "y": 320,
+      "link": "https://grammar.ilearnczech.com/locative/plural#masculine",
+      "bgColor": "#d1f3f4",
+      "parent": "#jtyjdw"
+    },
+    {
+      "@id": "#u2s2vv",
+      "name": "Feminine",
+      "x": 278,
+      "y": 442,
+      "link": "https://grammar.ilearnczech.com/locative/plural#feminine",
+      "bgColor": "#d1f3f4",
+      "parent": "#jtyjdw"
+    },
+    {
+      "@id": "#vx2z65",
+      "name": "Neuter",
+      "x": 131,
+      "y": 410,
+      "link": "https://grammar.ilearnczech.com/locative/plural#neuter",
+      "bgColor": "#d1f3f4",
+      "parent": "#jtyjdw"
+    },
+    {
+      "@id": "#xwei9g",
+      "name": "Flowchart: Choosing Plural Endings",
+      "x": -44,
+      "y": 217,
+      "link": "https://grammar.ilearnczech.com/locative/plural#flowchart-choosing-plural-endings",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6bzs4i",
+      "name": "Practice: Plural Endings",
+      "x": -150,
+      "y": 170,
+      "link": "https://grammar.ilearnczech.com/locative/plural#practice-plural-endings",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fkywkd",
+      "name": "Singular vs Plural Comparison",
+      "x": -219,
+      "y": 102,
+      "link": "https://grammar.ilearnczech.com/locative/plural#singular-vs-plural-comparison",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j8deiz",
+      "name": "← Theory",
+      "x": -248,
+      "y": 29,
+      "link": "./theory.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    }
+  ],
+  "selectedNode": 0
+}

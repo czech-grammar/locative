@@ -1,0 +1,102 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Exercises",
+      "x": 0,
+      "y": 0,
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#t922yq",
+      "name": "V or Na?",
+      "x": -224,
+      "y": -95,
+      "link": "./exercises-v-or-na.jsonld",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#26rfi6",
+      "name": "Fill in the Blank",
+      "x": -31,
+      "y": -211,
+      "link": "./exercises-fill-blank.jsonld",
+      "bgColor": "#e0c4f6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u28rkq",
+      "name": "Transform",
+      "x": 189,
+      "y": -139,
+      "link": "./exercises-transform.jsonld",
+      "bgColor": "#febdc6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#varvfj",
+      "name": "Error Correction",
+      "x": 242,
+      "y": 52,
+      "link": "./exercises-errors.jsonld",
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ucttef",
+      "name": "Interactive Quizzes",
+      "x": 65,
+      "y": 205,
+      "link": "./exercises-interactive.jsonld",
+      "bgColor": "#c1dba8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vzipyd",
+      "name": "← 6. Locative (6. pád)",
+      "x": -201,
+      "y": 126,
+      "link": "./index.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

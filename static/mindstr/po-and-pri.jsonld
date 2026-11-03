@@ -1,0 +1,207 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Po & Při",
+      "x": 0,
+      "y": 0,
+      "link": "https://grammar.ilearnczech.com/locative/po-and-pri",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#7fnz2s",
+      "name": "Po",
+      "x": -178,
+      "y": -149,
+      "link": "https://grammar.ilearnczech.com/locative/po-and-pri#po-after-along-around",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p89exh",
+      "name": "After",
+      "x": -474,
+      "y": -135,
+      "link": "https://grammar.ilearnczech.com/locative/po-and-pri#1-after-time",
+      "bgColor": "#daeeff",
+      "parent": "#7fnz2s"
+    },
+    {
+      "@id": "#urtpxv",
+      "name": "Along, around",
+      "x": -442,
+      "y": -332,
+      "link": "https://grammar.ilearnczech.com/locative/po-and-pri#2-along-around-movementlocation",
+      "bgColor": "#daeeff",
+      "parent": "#7fnz2s"
+    },
+    {
+      "@id": "#4dg5c4",
+      "name": "Throughout, all over",
+      "x": -192,
+      "y": -392,
+      "link": "https://grammar.ilearnczech.com/locative/po-and-pri#3-throughout-all-over",
+      "bgColor": "#daeeff",
+      "parent": "#7fnz2s"
+    },
+    {
+      "@id": "#kwm3he",
+      "name": "Při",
+      "x": 168,
+      "y": -158,
+      "link": "https://grammar.ilearnczech.com/locative/po-and-pri#při-at-during-by",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qvd9cw",
+      "name": "During, while",
+      "x": 149,
+      "y": -406,
+      "link": "https://grammar.ilearnczech.com/locative/po-and-pri#1-during-while-doing-something",
+      "bgColor": "#efe6ff",
+      "parent": "#kwm3he"
+    },
+    {
+      "@id": "#sf37xb",
+      "name": "At, by",
+      "x": 381,
+      "y": -383,
+      "link": "https://grammar.ilearnczech.com/locative/po-and-pri#2-at-by-locationproximity",
+      "bgColor": "#efe6ff",
+      "parent": "#kwm3he"
+    },
+    {
+      "@id": "#fuhjpf",
+      "name": "On the occasion of",
+      "x": 453,
+      "y": -180,
+      "link": "https://grammar.ilearnczech.com/locative/po-and-pri#3-on-the-occasion-of",
+      "bgColor": "#efe6ff",
+      "parent": "#kwm3he"
+    },
+    {
+      "@id": "#dry8wx",
+      "name": "Po vs Při",
+      "x": 247,
+      "y": 33,
+      "link": "https://grammar.ilearnczech.com/locative/po-and-pri#po-vs-při",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rmckuv",
+      "name": "Common Phrases with Po",
+      "x": 188,
+      "y": 140,
+      "link": "https://grammar.ilearnczech.com/locative/po-and-pri#common-phrases-with-po",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6cicry",
+      "name": "Common Phrases with Při",
+      "x": 59,
+      "y": 209,
+      "link": "https://grammar.ilearnczech.com/locative/po-and-pri#common-phrases-with-při",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7c28q6",
+      "name": "Practice",
+      "x": -99,
+      "y": 197,
+      "link": "https://grammar.ilearnczech.com/locative/po-and-pri#practice",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4qbh3e",
+      "name": "Summary",
+      "x": -189,
+      "y": 139,
+      "link": "https://grammar.ilearnczech.com/locative/po-and-pri#summary",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m3xps2",
+      "name": "← Theory",
+      "x": -243,
+      "y": 50,
+      "link": "./theory.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    }
+  ],
+  "selectedNode": 0
+}

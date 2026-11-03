@@ -1,0 +1,259 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "V vs Na",
+      "x": 0,
+      "y": 0,
+      "link": "https://grammar.ilearnczech.com/locative/v-vs-na",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#aya9s9",
+      "name": "The Golden Rule",
+      "x": -247,
+      "y": -33,
+      "link": "https://grammar.ilearnczech.com/locative/v-vs-na#the-golden-rule",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vn2imx",
+      "name": "Basic Meanings",
+      "x": -223,
+      "y": -96,
+      "link": "https://grammar.ilearnczech.com/locative/v-vs-na#basic-meanings",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2tznvh",
+      "name": "When to Use V",
+      "x": -86,
+      "y": -200,
+      "link": "https://grammar.ilearnczech.com/locative/v-vs-na#when-to-use-v-default",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cnh2fk",
+      "name": "Cities & Countries",
+      "x": -321,
+      "y": -326,
+      "link": "https://grammar.ilearnczech.com/locative/v-vs-na#cities-countries",
+      "bgColor": "#ffe2ed",
+      "parent": "#2tznvh"
+    },
+    {
+      "@id": "#dk76uz",
+      "name": "Buildings",
+      "x": -238,
+      "y": -459,
+      "link": "https://grammar.ilearnczech.com/locative/v-vs-na#buildings-as-physical-spaces",
+      "bgColor": "#ffe2ed",
+      "parent": "#2tznvh"
+    },
+    {
+      "@id": "#5aggpq",
+      "name": "Containers & Enclosed Spaces",
+      "x": -34,
+      "y": -424,
+      "link": "https://grammar.ilearnczech.com/locative/v-vs-na#containers-enclosed-spaces",
+      "bgColor": "#ffe2ed",
+      "parent": "#2tznvh"
+    },
+    {
+      "@id": "#eqmaaw",
+      "name": "When to Use NA",
+      "x": 303,
+      "y": 55,
+      "link": "https://grammar.ilearnczech.com/locative/v-vs-na#when-to-use-na-memorize-these",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pjbq25",
+      "name": "Events & Activities 🎭",
+      "x": 310,
+      "y": -333,
+      "link": "https://grammar.ilearnczech.com/locative/v-vs-na#1-events-activities",
+      "bgColor": "#ffe4d9",
+      "parent": "#eqmaaw"
+    },
+    {
+      "@id": "#tz98k5",
+      "name": "Transportation Places 🚂",
+      "x": 508,
+      "y": -255,
+      "link": "https://grammar.ilearnczech.com/locative/v-vs-na#2-transportation-places",
+      "bgColor": "#ffe4d9",
+      "parent": "#eqmaaw"
+    },
+    {
+      "@id": "#437yyk",
+      "name": "Public Institutions 🏛️",
+      "x": 494,
+      "y": -67,
+      "link": "https://grammar.ilearnczech.com/locative/v-vs-na#3-public-institutions",
+      "bgColor": "#ffe4d9",
+      "parent": "#eqmaaw"
+    },
+    {
+      "@id": "#j3k2bu",
+      "name": "Cardinal Directions 🧭",
+      "x": 578,
+      "y": 102,
+      "link": "https://grammar.ilearnczech.com/locative/v-vs-na#4-cardinal-directions",
+      "bgColor": "#ffe4d9",
+      "parent": "#eqmaaw"
+    },
+    {
+      "@id": "#uhqx6j",
+      "name": "Islands & Some Regions 🏝️",
+      "x": 416,
+      "y": 236,
+      "link": "https://grammar.ilearnczech.com/locative/v-vs-na#5-islands-some-regions",
+      "bgColor": "#ffe4d9",
+      "parent": "#eqmaaw"
+    },
+    {
+      "@id": "#aurbbn",
+      "name": "Surfaces & Open Areas 📍",
+      "x": 327,
+      "y": 417,
+      "link": "https://grammar.ilearnczech.com/locative/v-vs-na#6-surfaces-open-areas",
+      "bgColor": "#ffe4d9",
+      "parent": "#eqmaaw"
+    },
+    {
+      "@id": "#fxz322",
+      "name": "Irregular Na-Words ❓",
+      "x": 115,
+      "y": 414,
+      "link": "https://grammar.ilearnczech.com/locative/v-vs-na#7-irregular-na-words-just-memorize",
+      "bgColor": "#ffe4d9",
+      "parent": "#eqmaaw"
+    },
+    {
+      "@id": "#s77s87",
+      "name": "Common Mistakes",
+      "x": -83,
+      "y": 203,
+      "link": "https://grammar.ilearnczech.com/locative/v-vs-na#common-mistakes",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k73rni",
+      "name": "Quick Decision Flowchart",
+      "x": -165,
+      "y": 158,
+      "link": "https://grammar.ilearnczech.com/locative/v-vs-na#quick-decision-flowchart",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r8zm2z",
+      "name": "Practice Time",
+      "x": -223,
+      "y": 95,
+      "link": "https://grammar.ilearnczech.com/locative/v-vs-na#practice-time",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wzv4c3",
+      "name": "← Theory",
+      "x": -247,
+      "y": 33,
+      "link": "./theory.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 7,
+      "end": 12
+    },
+    {
+      "start": 7,
+      "end": 13
+    },
+    {
+      "start": 7,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

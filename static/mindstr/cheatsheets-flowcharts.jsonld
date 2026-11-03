@@ -1,0 +1,64 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Flowcharts",
+      "x": 0,
+      "y": 0,
+      "link": "https://grammar.ilearnczech.com/locative/cheatsheets/flowcharts",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#3vjzm2",
+      "name": "Singular",
+      "x": -125,
+      "y": -184,
+      "link": "https://grammar.ilearnczech.com/locative/cheatsheets/flowcharts#singular",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6wz95i",
+      "name": "Plural",
+      "x": 250,
+      "y": 0,
+      "link": "https://grammar.ilearnczech.com/locative/cheatsheets/flowcharts#plural",
+      "bgColor": "#febdc6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mkijzp",
+      "name": "← Cheatsheets",
+      "x": -125,
+      "y": 184,
+      "link": "./cheatsheets.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    }
+  ],
+  "selectedNode": 0
+}

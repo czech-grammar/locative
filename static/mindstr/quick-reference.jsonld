@@ -1,0 +1,194 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Quick Reference",
+      "x": 0,
+      "y": 0,
+      "link": "https://grammar.ilearnczech.com/locative/quick-reference",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#qrakrq",
+      "name": "All 5 Locative Prepositions",
+      "x": -238,
+      "y": -66,
+      "link": "https://grammar.ilearnczech.com/locative/quick-reference#all-5-locative-prepositions",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ppuaac",
+      "name": "V or NA?",
+      "x": -169,
+      "y": -155,
+      "link": "https://grammar.ilearnczech.com/locative/quick-reference#v-or-na",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f77hg7",
+      "name": "Po vs Při",
+      "x": -113,
+      "y": -201,
+      "link": "https://grammar.ilearnczech.com/locative/quick-reference#po-vs-při",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kpihvt",
+      "name": "Singular Noun Endings",
+      "x": 41,
+      "y": -211,
+      "link": "https://grammar.ilearnczech.com/locative/quick-reference#singular-noun-endings",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k58b5b",
+      "name": "Plural Noun Endings: The -CH Club",
+      "x": 168,
+      "y": -158,
+      "link": "https://grammar.ilearnczech.com/locative/quick-reference#plural-noun-endings-the--ch-club",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#htircd",
+      "name": "Adjective Endings",
+      "x": 243,
+      "y": -51,
+      "link": "https://grammar.ilearnczech.com/locative/quick-reference#adjective-endings",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sixamq",
+      "name": "Palatalization",
+      "x": 246,
+      "y": 37,
+      "link": "https://grammar.ilearnczech.com/locative/quick-reference#palatalization-consonant-changes",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j99zi5",
+      "name": "Common Irregular Forms",
+      "x": 201,
+      "y": 126,
+      "link": "https://grammar.ilearnczech.com/locative/quick-reference#common-irregular-forms",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kwrapz",
+      "name": "V → VE, NA →",
+      "x": 114,
+      "y": 181,
+      "link": "https://grammar.ilearnczech.com/locative/quick-reference#v-ve-na-stays-na",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n3epze",
+      "name": "Example Sentences",
+      "x": 14,
+      "y": 232,
+      "link": "https://grammar.ilearnczech.com/locative/quick-reference#example-sentences",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#42eis4",
+      "name": "Quick Decision Tree",
+      "x": -97,
+      "y": 188,
+      "link": "https://grammar.ilearnczech.com/locative/quick-reference#quick-decision-tree",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f65d8e",
+      "name": "The 3 Questions",
+      "x": -186,
+      "y": 142,
+      "link": "https://grammar.ilearnczech.com/locative/quick-reference#the-3-questions",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ncsetq",
+      "name": "← 6. Locative (6. pád)",
+      "x": -241,
+      "y": 56,
+      "link": "./index.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

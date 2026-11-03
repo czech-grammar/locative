@@ -1,0 +1,246 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Palatalization",
+      "x": 0,
+      "y": 0,
+      "link": "https://grammar.ilearnczech.com/locative/palatalization",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#yxjf84",
+      "name": "Why Does This Happen?",
+      "x": -245,
+      "y": -43,
+      "link": "https://grammar.ilearnczech.com/locative/palatalization#why-does-this-happen",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mrv4db",
+      "name": "The Main Changes",
+      "x": -188,
+      "y": -140,
+      "link": "https://grammar.ilearnczech.com/locative/palatalization#the-main-changes",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i6483q",
+      "name": "Before -ě",
+      "x": -417,
+      "y": -235,
+      "link": "https://grammar.ilearnczech.com/locative/palatalization#before--ě-after-hard-consonants",
+      "bgColor": "#efe6ff",
+      "parent": "#mrv4db"
+    },
+    {
+      "@id": "#kmcrgd",
+      "name": "Common examples",
+      "x": -390,
+      "y": -376,
+      "link": "https://grammar.ilearnczech.com/locative/palatalization#common-examples",
+      "bgColor": "#efe6ff",
+      "parent": "#mrv4db"
+    },
+    {
+      "@id": "#ktiw89",
+      "name": "When Palatalization Happens",
+      "x": 44,
+      "y": -209,
+      "link": "https://grammar.ilearnczech.com/locative/palatalization#when-palatalization-happens",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c74y5q",
+      "name": "Feminine nouns ending in -a",
+      "x": -108,
+      "y": -415,
+      "link": "https://grammar.ilearnczech.com/locative/palatalization#1-feminine-nouns-ending-in--a",
+      "bgColor": "#ffe2ed",
+      "parent": "#ktiw89"
+    },
+    {
+      "@id": "#374kep",
+      "name": "Masculine inanimate nouns",
+      "x": 111,
+      "y": -493,
+      "link": "https://grammar.ilearnczech.com/locative/palatalization#2-masculine-inanimate-nouns",
+      "bgColor": "#ffe2ed",
+      "parent": "#ktiw89"
+    },
+    {
+      "@id": "#ba2cgp",
+      "name": "Neuter nouns ending in -o",
+      "x": 275,
+      "y": -355,
+      "link": "https://grammar.ilearnczech.com/locative/palatalization#3-neuter-nouns-ending-in--o",
+      "bgColor": "#ffe2ed",
+      "parent": "#ktiw89"
+    },
+    {
+      "@id": "#h7ym9k",
+      "name": "Exceptions and Alternatives",
+      "x": 249,
+      "y": -15,
+      "link": "https://grammar.ilearnczech.com/locative/palatalization#exceptions-and-alternatives",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ius84b",
+      "name": "Words that prefer -u over -ě",
+      "x": 467,
+      "y": -151,
+      "link": "https://grammar.ilearnczech.com/locative/palatalization#words-that-prefer--u-over--ě",
+      "bgColor": "#ffe4d9",
+      "parent": "#h7ym9k"
+    },
+    {
+      "@id": "#583aqh",
+      "name": "Foreign words often avoid palatalization",
+      "x": 584,
+      "y": 73,
+      "link": "https://grammar.ilearnczech.com/locative/palatalization#foreign-words-often-avoid-palatalization",
+      "bgColor": "#ffe4d9",
+      "parent": "#h7ym9k"
+    },
+    {
+      "@id": "#sbf4ee",
+      "name": "Quick Reference Table",
+      "x": 184,
+      "y": 133,
+      "link": "https://grammar.ilearnczech.com/locative/palatalization#quick-reference-table",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t6q67m",
+      "name": "Double Consonant Situations",
+      "x": 97,
+      "y": 178,
+      "link": "https://grammar.ilearnczech.com/locative/palatalization#double-consonant-situations",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#abq85r",
+      "name": "Practice: Identify the Change",
+      "x": -34,
+      "y": 222,
+      "link": "https://grammar.ilearnczech.com/locative/palatalization#practice-identify-the-change",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sy2ncx",
+      "name": "Practice: Apply Palatalization",
+      "x": -159,
+      "y": 166,
+      "link": "https://grammar.ilearnczech.com/locative/palatalization#practice-apply-palatalization",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fertai",
+      "name": "Common Mistakes",
+      "x": -223,
+      "y": 95,
+      "link": "https://grammar.ilearnczech.com/locative/palatalization#common-mistakes",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9u36xp",
+      "name": "← Theory",
+      "x": -247,
+      "y": 33,
+      "link": "./theory.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 2,
+      "end": 3
+    },
+    {
+      "start": 2,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

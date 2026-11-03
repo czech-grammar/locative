@@ -1,0 +1,142 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "V or Na?",
+      "x": 0,
+      "y": 0,
+      "link": "https://grammar.ilearnczech.com/locative/exercises/v-or-na",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#miy6ts",
+      "name": "Level 1: Basic",
+      "x": -243,
+      "y": -48,
+      "link": "https://grammar.ilearnczech.com/locative/exercises/v-or-na#level-1-basic-cities-countries-buildings",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ft3k8u",
+      "name": "Level 2: Events & Activities",
+      "x": -167,
+      "y": -158,
+      "link": "https://grammar.ilearnczech.com/locative/exercises/v-or-na#level-2-events-activities",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#it6792",
+      "name": "Level 3: Transportation & Institutions",
+      "x": 37,
+      "y": -210,
+      "link": "https://grammar.ilearnczech.com/locative/exercises/v-or-na#level-3-transportation-institutions",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dnz3gb",
+      "name": "Level 4: Directions & Regions",
+      "x": 215,
+      "y": -108,
+      "link": "https://grammar.ilearnczech.com/locative/exercises/v-or-na#level-4-directions-regions",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3ifse5",
+      "name": "Level 5: Tricky Na-Words",
+      "x": 245,
+      "y": 41,
+      "link": "https://grammar.ilearnczech.com/locative/exercises/v-or-na#level-5-tricky-na-words",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ju3xzh",
+      "name": "Level 6: Mixed Challenge",
+      "x": 162,
+      "y": 162,
+      "link": "https://grammar.ilearnczech.com/locative/exercises/v-or-na#level-6-mixed-challenge",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p46jmx",
+      "name": "Level 7: Full Sentences",
+      "x": 11,
+      "y": 212,
+      "link": "https://grammar.ilearnczech.com/locative/exercises/v-or-na#level-7-full-sentences",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bu7kuh",
+      "name": "Quick Reference: When to Use NA",
+      "x": -160,
+      "y": 163,
+      "link": "https://grammar.ilearnczech.com/locative/exercises/v-or-na#quick-reference-when-to-use-na",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2iffkx",
+      "name": "← Exercises",
+      "x": -243,
+      "y": 48,
+      "link": "./exercises.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

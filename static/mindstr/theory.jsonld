@@ -1,0 +1,115 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Theory",
+      "x": 0,
+      "y": 0,
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#3y3s3p",
+      "name": "Singular Endings",
+      "x": -226,
+      "y": -90,
+      "link": "./singular.jsonld",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ujs2ci",
+      "name": "Plural Endings",
+      "x": -70,
+      "y": -204,
+      "link": "./plural.jsonld",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#442pm7",
+      "name": "V vs Na",
+      "x": 128,
+      "y": -183,
+      "link": "./v-vs-na.jsonld",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#imr4n9",
+      "name": "Po & Při",
+      "x": 244,
+      "y": -45,
+      "link": "./po-and-pri.jsonld",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tpktj6",
+      "name": "Palatalization",
+      "x": 205,
+      "y": 122,
+      "link": "./palatalization.jsonld",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u94rpy",
+      "name": "Adjective Agreement",
+      "x": 13,
+      "y": 212,
+      "link": "./adjectives.jsonld",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7txfyn",
+      "name": "← 6. Locative (6. pád)",
+      "x": -212,
+      "y": 113,
+      "link": "./index.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}
